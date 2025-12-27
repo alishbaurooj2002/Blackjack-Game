@@ -33,4 +33,3 @@ It demonstrates the core rules of Blackjack and helps practice JavaScript concep
 - Player loses if the sum exceeds **21**  
 - Player can draw new cards while still alive  
 
-## Project Structure
