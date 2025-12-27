@@ -1,5 +1,4 @@
-# Blackjack-Game
-# Blackjack Game (JavaScript)
+# Blackjack Game
 
 ## Project Overview
 This project is a simple browser-based **Blackjack game** built using **HTML, CSS, and JavaScript**.  
